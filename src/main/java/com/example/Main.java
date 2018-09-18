@@ -36,7 +36,7 @@ import java.util.Map;
 
 @Controller
 @SpringBootApplication
-/*public class Main {
+public class Main {
 
   @Value("${spring.datasource.url}")
   private String dbUrl;
@@ -86,4 +86,3 @@ import java.util.Map;
   }
 
 }
-*/
