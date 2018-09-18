@@ -15,7 +15,7 @@
  */
 
 package com.example;
-/*
+
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -36,7 +36,7 @@ import java.util.Map;
 
 @Controller
 @SpringBootApplication
-public class Main {
+/*public class Main {
 
   @Value("${spring.datasource.url}")
   private String dbUrl;
